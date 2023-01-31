@@ -6,13 +6,13 @@ https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Di
 
 The first dashboard visualises customer and agent behaviour in a call Centre.
 <p align="center">
- <img src='https://github.com/mousavin0/python/blob/main/British%20Airways/task2.jpg'>
+ <img src='https://github.com/mousavin0/powerbi/blob/main/task2.jpg'>
 <\p>
 
 The second dashboard provides some insights for the retention manager of the call centre company.
 
 <p align="center">
- <img src='https://github.com/mousavin0/python/blob/main/British%20Airways/task3.jpg'>
+ <img src='https://github.com/mousavin0/powerbi/blob/main/task3.jpg'>
 <\p>
 
 Some of the findings that can be read from the dashboard:
@@ -40,5 +40,5 @@ Based on the above a few suggestion is proposed:
 The following dashboard is made to find patterns among employees for a HR manager for studying inclusion and diversity.
 
 <p align="center">
- <img src='https://github.com/mousavin0/python/blob/main/British%20Airways/task4.jpg'>
+ <img src='https://github.com/mousavin0/powerbi/blob/main/task4.jpg'>
 <\p>
